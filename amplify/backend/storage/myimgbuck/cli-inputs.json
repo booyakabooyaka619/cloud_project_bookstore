@@ -1,0 +1,16 @@
+{
+  "resourceName": "myimgbuck",
+  "policyUUID": "cd05bc21",
+  "bucketName": "bookstorev3e95750e145504ef59711d03da32e4d17",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
